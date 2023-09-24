@@ -1,16 +1,23 @@
-### Hi there 👋
+# 🙋‍♀️ [@anelmontes](https://www.linkedin.com/in/anelmontesdeoca/)
 
+![Anel Montes de Oca - Programadora Java Full Stak Jr.]()
+
+![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20me%20on%20GitHub&style=for-the-badge)
+
+
+## Hola 👋🏻, bienvenido a mi perfil.
+
+Apasionada por la tecnología y el aprendizaje constante, soy programadora Java Full Stack Jr. en constante proceso de crecimiento. Me enorgullece mi enfoque autodidacta y mi perseverancia. Mi verdadera pasión va más allá de la codificación: me impulsa la misión de cerrar la brecha de género en la tecnología.
+>  Disfruto compartiendo mi conocimiento y acompañando a otras mujeres en su aprendizaje.
 <!--
-**anelmontes/anelmontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍🚀 Habilidades
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Experto en programación y desarrollo de sistemas.
+- Habilidad para trabajar en equipo.
+- Pensamiento crítico, conceptual y analítico.
 -->
+### 🛠 Frameworks y herramientas
+
+Listado de tecnologías que uso .
+
+Java, JavaScript, Git, Spring Boot, Html 5, Css 3, MySQL
